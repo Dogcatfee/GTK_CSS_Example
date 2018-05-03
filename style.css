@@ -1,0 +1,18 @@
+button{
+	color: white;
+	border-radius: 5%;
+}
+button:hover{
+	background: blue;
+}
+button:focus{
+	outline: none;
+}
+.textfield{
+	font-size: 18px;
+	font-weight: bold;
+}
+.textfield text{
+	color: white;
+	background: blue;
+}
